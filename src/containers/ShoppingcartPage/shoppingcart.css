@@ -1,0 +1,10 @@
+.a {
+	cursor: pointer;
+}
+.close {
+	width: 14px !important;
+}
+.item-image {
+    width: 78px;
+    height: 78px;
+}

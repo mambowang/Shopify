@@ -1,0 +1,57 @@
+.logo_02 {
+	height: 54px;
+	width: 118.23px !important;
+}
+.header-mobile__logo img {
+	height: 54px;
+	width: 118.23px !important;
+}
+header .header-wrapper-desktop .header .header-main .header__button ul li.header-search .search-input a {
+	right: 200px;
+}
+.user {
+	right: 20px;
+	width: 200px;
+	padding: 20px 20px;
+}
+.user .shop-cart__list .item:first-child {
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #999999;
+}
+.a {
+	cursor: pointer;
+}
+.autocomplete {
+	position: absolute;
+	width: 100%;
+	padding: 0 200px 0 150px;
+	/*left: 150px;*/
+    top: 80px;
+}
+.auto {
+	background: #ffffff;
+	border-left: solid 1px #999999;
+	border-right: solid 1px #999999;
+	width: 100%;
+}
+.auto:first-child {
+	border-top: solid 1px #999999;
+}
+.auto:last-child {
+	border-bottom: solid 1px #999999;
+}
+.autolist {
+	cursor: pointer;
+	padding: 3px 10px;
+}
+.autolist:hover {
+	background: #eeeeee;
+	cursor: pointer;
+}
+.login {
+	color: #666;
+}
+.login:hover {
+	color: #e4c7a2;
+}

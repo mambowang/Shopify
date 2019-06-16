@@ -1,0 +1,28 @@
+.shop-list-img {
+	max-width: 210px;
+}
+.price p{
+	display: inline-block;
+}
+.originalPrice {
+	text-decoration: line-through;
+}
+.finalPrice {
+	margin-left: 10px;
+	color: red;
+}
+.addcart {
+	text-align: center;
+}
+.addcart div{
+	cursor: pointer;
+	display: inline-block;
+	background: #999999;
+	height: 51px;
+	width: 150px;
+	line-height:50px;
+}
+.addcart p {
+	color: white;
+	font-size:18px;
+}

@@ -1,0 +1,26 @@
+.a {
+	cursor: pointer;
+}
+.color {
+	display: flex;
+}
+.color input {
+	margin-top: 5px;
+	margin-right: 5px;
+}
+#slide100-01 img {
+    width: 461px;
+}
+.main-frame, .sub-frame {
+    position: relative; 
+    overflow: inherit; 
+}
+.owl-stage {
+	width: 100% !important;
+}
+.owl-item {
+	width: 100% !important;
+}
+.grid-item {
+	display: inline-block;
+}
